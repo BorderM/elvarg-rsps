@@ -32,6 +32,11 @@ allprojects {
             implementation(kotlin.scripting)
             implementation(kotlin.reflect)
             implementation("org.litote.kmongo:kmongo-coroutine-serialization:4.5.0")
+            implementation("org.jetbrains.kotlin:kotlin-scripting-common:1.9.10")
+            implementation("org.jetbrains.kotlin:kotlin-scripting-jvm:1.9.10")
+            implementation("org.jetbrains.kotlin:kotlin-scripting-jvm-host:1.9.10")
+            implementation("org.jetbrains.kotlin:kotlin-scripting-dependencies:1.9.10")
+            implementation("org.jetbrains.kotlin:kotlin-scripting-dependencies-maven:1.9.10")
         }
     }
 
@@ -65,6 +70,13 @@ allprojects {
             freeCompilerArgs = listOf(
                 "-Xallow-any-scripts-in-source-roots" ,
             )
+        }
+    }
+    configurations.all {
+        resolutionStrategy.eachDependency {
+            if (requested.group == "org.jetbrains.kotlin") {
+                useVersion("1.9.10")
+            }
         }
     }
 }

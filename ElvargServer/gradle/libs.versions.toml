@@ -5,7 +5,7 @@ kotlinLogging = "2.1.23"
 
 gson = "_"
 kotlinxSerializationCore = "_"
-kotlin = "1.8.10"
+kotlin = "1.9.10"
 caffeine = "3.1.1"
 nettyAll = "4.1.72.Final"
 

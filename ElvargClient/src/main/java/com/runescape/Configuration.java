@@ -29,7 +29,7 @@ public final class Configuration {
      */
     public static boolean PRODUCTION_MODE = false;
     public static String SERVER_ADDRESS = PRODUCTION_MODE ? "" : "localhost";
-    public static int SERVER_PORT = 43595;
+    public static int SERVER_PORT = 43594;
     /**
      * Dumps map region images when new regions are loaded.
      */

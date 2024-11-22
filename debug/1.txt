@@ -1,0 +1,500 @@
+PS D:\Documents\GitHub\elvarg-rsps\ElvargServer> gradle game:run
+Type-safe project accessors is an incubating feature.
+
+> Task :game:compileJava FAILED
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:111: error: : expected
+                    case 0 -> {
+                          ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:111: error: illegal start of expression
+                    case 0 -> {
+                           ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:116: error: : expected
+                    case 1 -> {
+                          ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:116: error: illegal start of expression
+                    case 1 -> {
+                           ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:121: error: : expected
+                    case 2 -> {
+                          ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:121: error: illegal start of expression
+                    case 2 -> {
+                           ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:126: error: : expected
+                    case 3 -> {
+                          ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:126: error: illegal start of expression
+                    case 3 -> {
+                           ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:131: error: : expected
+                    case 4 -> {
+                          ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:131: error: illegal start of expression
+                    case 4 -> {
+                           ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:137: error: : expected
+                    case 5 -> {
+                          ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:137: error: illegal start of expression
+                    case 5 -> {
+                           ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:143: error: : expected
+                    case 6 -> {//North
+                          ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:143: error: illegal start of expression
+                    case 6 -> {//North
+                           ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:148: error: : expected
+                    case 7 -> {
+                          ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:148: error: illegal start of expression
+                    case 7 -> {
+                           ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:338: error: : expected
+            case 1 -> {
+                  ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:338: error: illegal start of expression
+            case 1 -> {
+                   ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:345: error: : expected
+            case 2 -> {//Pick-up
+                  ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:345: error: illegal start of expression
+            case 2 -> {//Pick-up
+                   ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:349: error: : expected
+            case 3 -> {//Empty
+                  ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:349: error: illegal start of expression
+            case 3 -> {//Empty
+                   ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:154: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:160: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:163: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:165: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:170: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:177: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:182: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:187: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:192: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:197: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:202: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:207: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:213: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:221: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:224: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\magic\Autocasting.java:112: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\magic\Autocasting.java:121: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\method\impl\MagicCombatMethod.java:57: error: ')' expected
+                                        || !(spell instanceof CombatAncientSpell combatAncientSpell)
+                                                                                ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\method\impl\MagicCombatMethod.java:57: error: not a statement
+                                        || !(spell instanceof CombatAncientSpell combatAncientSpell)
+                                                                                 ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\method\impl\MagicCombatMethod.java:57: error: ';' expected
+                                        || !(spell instanceof CombatAncientSpell combatAncientSpell)
+                                                                                                   ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\method\impl\MagicCombatMethod.java:58: error: not a statement
+                                        || combatAncientSpell.spellRadius() <= 0) {
+                                                                            ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\method\impl\MagicCombatMethod.java:58: error: ';' expected
+                                        || combatAncientSpell.spellRadius() <= 0) {
+                                                                                ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\quests\impl\CooksAssistant.java:110: error: : expected
+                        case NOT_STARTED -> player.getDialogueManager().start(this.dialogueBuilder, 0);
+                                                                                                      ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\quests\impl\CooksAssistant.java:111: error: : expected
+                        case 1 -> player.getDialogueManager().start(this.dialogueBuilder, 20);
+                              ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\quests\impl\CooksAssistant.java:111: error: illegal start of expression
+                        case 1 -> player.getDialogueManager().start(this.dialogueBuilder, 20);
+                               ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\quests\impl\CooksAssistant.java:112: error: : expected
+                        case 2 -> player.getDialogueManager().start(this.dialogueBuilder, 24);
+                              ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\quests\impl\CooksAssistant.java:112: error: illegal start of expression
+                        case 2 -> player.getDialogueManager().start(this.dialogueBuilder, 24);
+                               ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\quests\impl\CooksAssistant.java:113: error: : expected
+                        case 3 -> {
+                              ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\quests\impl\CooksAssistant.java:113: error: illegal start of expression
+                        case 3 -> {
+                               ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\skill\skillable\impl\woodcutting\BirdNest.java:121: error: illegal start of expression
+            nest = switch (color) {
+                   ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\skill\skillable\impl\woodcutting\BirdNest.java:122: error: : expected
+                case 1 -> Nest.RED_BIRD_NEST;
+                      ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\skill\skillable\impl\woodcutting\BirdNest.java:122: error: illegal start of expression
+                case 1 -> Nest.RED_BIRD_NEST;
+                       ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\skill\skillable\impl\woodcutting\BirdNest.java:122: error: not a statement
+                case 1 -> Nest.RED_BIRD_NEST;
+                              ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\skill\skillable\impl\woodcutting\BirdNest.java:123: error: : expected
+                case 2 -> Nest.GREEN_BIRD_NEST;
+                      ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\skill\skillable\impl\woodcutting\BirdNest.java:123: error: illegal start of expression
+                case 2 -> Nest.GREEN_BIRD_NEST;
+                       ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\skill\skillable\impl\woodcutting\BirdNest.java:123: error: not a statement
+                case 2 -> Nest.GREEN_BIRD_NEST;
+                              ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\skill\skillable\impl\woodcutting\BirdNest.java:124: error: : expected
+                default -> Nest.BLUE_BIRD_NEST;
+                       ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\skill\skillable\impl\woodcutting\BirdNest.java:124: error: illegal start of expression
+                default -> Nest.BLUE_BIRD_NEST;
+                        ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\skill\skillable\impl\woodcutting\BirdNest.java:124: error: not a statement
+                default -> Nest.BLUE_BIRD_NEST;
+                               ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\entity\impl\npc\impl\RockCrab.java:61: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\entity\impl\npc\impl\RockCrab.java:64: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\entity\impl\npc\impl\RockCrab.java:69: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\entity\impl\npc\impl\RockCrab.java:72: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\entity\impl\npc\impl\Sheep.java:119: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\entity\impl\npc\impl\Sheep.java:122: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\entity\impl\npc\impl\Sheep.java:126: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\entity\impl\npc\impl\Sheep.java:129: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\entity\impl\npc\impl\Sheep.java:133: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\entity\impl\npc\impl\Sheep.java:136: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\entity\impl\npc\impl\Sheep.java:140: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\entity\impl\npc\impl\Sheep.java:143: error: : expected
+            }
+             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\model\movement\MovementQueue.java:75: error: : expected
+                case FROZEN_SPELL -> message = "A magical spell has made you unable to move.";
+                                                                                             ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\model\movement\MovementQueue.java:76: error: : expected
+                case STUNNED -> message = "You're stunned!";
+                                                           ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\model\movement\MovementQueue.java:77: error: : expected
+                case BUSY -> message = "You cannot do that right now.";
+                                                                      ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\model\movement\MovementQueue.java:78: error: : expected
+                case DUEL_MOVEMENT_DISABLED -> message = "Movement has been disabled in this duel!";
+                                                                                                   ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\model\movement\MovementQueue.java:79: error: : expected
+                default -> {
+                       ^
+D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\model\movement\MovementQueue.java:79: error: illegal start of expression
+                default -> {
+                        ^
+79 errors
+[Incubating] Problems report is available at: file:///D:/Documents/GitHub/elvarg-rsps/ElvargServer/build/reports/problems/problems-report.html
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':game:compileJava'.
+> Compilation failed; see the compiler output below.
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:111: error: : expected
+                      case 0 -> {
+                            ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:116: error: : expected
+                      case 1 -> {
+                            ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:121: error: : expected
+                      case 2 -> {
+                            ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:126: error: : expected
+                      case 3 -> {
+                            ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:131: error: : expected
+                      case 4 -> {
+                            ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:137: error: : expected
+                      case 5 -> {
+                            ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:143: error: : expected
+                      case 6 -> {//North
+                            ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:148: error: : expected
+                      case 7 -> {
+                            ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:338: error: : expected
+              case 1 -> {
+                    ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:345: error: : expected
+              case 2 -> {//Pick-up
+                    ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:349: error: : expected
+              case 3 -> {//Empty
+                    ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:154: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:160: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:163: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:165: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:170: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:177: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:182: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:187: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:192: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:197: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:202: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:207: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:213: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:221: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\Combat.java:224: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\magic\Autocasting.java:112: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\magic\Autocasting.java:121: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\method\impl\MagicCombatMethod.java:57: error: ')' expected
+                                        || !(spell instanceof CombatAncientSpell combatAncientSpell)
+                                                                                ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\method\impl\MagicCombatMethod.java:57: error: ';' expected
+                                        || !(spell instanceof CombatAncientSpell combatAncientSpell)
+                                                                                                   ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\method\impl\MagicCombatMethod.java:58: error: ';' expected
+                                        || combatAncientSpell.spellRadius() <= 0) {
+                                                                                ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\quests\impl\CooksAssistant.java:110: error: : expected
+                        case NOT_STARTED -> player.getDialogueManager().start(this.dialogueBuilder, 0);
+                                                                                                      ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\quests\impl\CooksAssistant.java:111: error: : expected
+                        case 1 -> player.getDialogueManager().start(this.dialogueBuilder, 20);
+                              ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\quests\impl\CooksAssistant.java:112: error: : expected
+                        case 2 -> player.getDialogueManager().start(this.dialogueBuilder, 24);
+                              ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\quests\impl\CooksAssistant.java:113: error: : expected
+                        case 3 -> {
+                              ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\skill\skillable\impl\woodcutting\BirdNest.java:122: error: : expected
+                  case 1 -> Nest.RED_BIRD_NEST;
+                        ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\skill\skillable\impl\woodcutting\BirdNest.java:123: error: : expected
+                  case 2 -> Nest.GREEN_BIRD_NEST;
+                        ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\skill\skillable\impl\woodcutting\BirdNest.java:124: error: : expected
+                  default -> Nest.BLUE_BIRD_NEST;
+                         ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\entity\impl\npc\impl\RockCrab.java:61: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\entity\impl\npc\impl\RockCrab.java:64: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\entity\impl\npc\impl\RockCrab.java:69: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\entity\impl\npc\impl\RockCrab.java:72: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\entity\impl\npc\impl\Sheep.java:119: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\entity\impl\npc\impl\Sheep.java:122: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\entity\impl\npc\impl\Sheep.java:126: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\entity\impl\npc\impl\Sheep.java:129: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\entity\impl\npc\impl\Sheep.java:133: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\entity\impl\npc\impl\Sheep.java:136: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\entity\impl\npc\impl\Sheep.java:140: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\entity\impl\npc\impl\Sheep.java:143: error: : expected
+              }
+               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\model\movement\MovementQueue.java:75: error: : expected
+                  case FROZEN_SPELL -> message = "A magical spell has made you unable to move.";
+                                                                                               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\model\movement\MovementQueue.java:76: error: : expected
+                  case STUNNED -> message = "You're stunned!";
+                                                             ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\model\movement\MovementQueue.java:77: error: : expected
+                  case BUSY -> message = "You cannot do that right now.";
+                                                                        ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\model\movement\MovementQueue.java:78: error: : expected
+                  case DUEL_MOVEMENT_DISABLED -> message = "Movement has been disabled in this duel!";
+                                                                                                     ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\model\movement\MovementQueue.java:79: error: : expected
+                  default -> {
+                         ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\method\impl\MagicCombatMethod.java:57: error: not a statement
+                                        || !(spell instanceof CombatAncientSpell combatAncientSpell)
+                                                                                 ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\combat\method\impl\MagicCombatMethod.java:58: error: not a statement
+                                        || combatAncientSpell.spellRadius() <= 0) {
+                                                                            ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\skill\skillable\impl\woodcutting\BirdNest.java:122: error: not a statement
+                  case 1 -> Nest.RED_BIRD_NEST;
+                                ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\skill\skillable\impl\woodcutting\BirdNest.java:123: error: not a statement
+                  case 2 -> Nest.GREEN_BIRD_NEST;
+                                ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\skill\skillable\impl\woodcutting\BirdNest.java:124: error: not a statement
+                  default -> Nest.BLUE_BIRD_NEST;
+                                 ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:111: error: illegal start of expression
+                      case 0 -> {
+                             ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:116: error: illegal start of expression
+                      case 1 -> {
+                             ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:121: error: illegal start of expression
+                      case 2 -> {
+                             ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:126: error: illegal start of expression
+                      case 3 -> {
+                             ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:131: error: illegal start of expression
+                      case 4 -> {
+                             ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:137: error: illegal start of expression
+                      case 5 -> {
+                             ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:143: error: illegal start of expression
+                      case 6 -> {//North
+                             ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:148: error: illegal start of expression
+                      case 7 -> {
+                             ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:338: error: illegal start of expression
+              case 1 -> {
+                     ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:345: error: illegal start of expression
+              case 2 -> {//Pick-up
+                     ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\cannon\DwarfCannon.java:349: error: illegal start of expression
+              case 3 -> {//Empty
+                     ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\quests\impl\CooksAssistant.java:111: error: illegal start of expression
+                        case 1 -> player.getDialogueManager().start(this.dialogueBuilder, 20);
+                               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\quests\impl\CooksAssistant.java:112: error: illegal start of expression
+                        case 2 -> player.getDialogueManager().start(this.dialogueBuilder, 24);
+                               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\quests\impl\CooksAssistant.java:113: error: illegal start of expression
+                        case 3 -> {
+                               ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\skill\skillable\impl\woodcutting\BirdNest.java:121: error: illegal start of expression
+              nest = switch (color) {
+                     ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\skill\skillable\impl\woodcutting\BirdNest.java:122: error: illegal start of expression
+                  case 1 -> Nest.RED_BIRD_NEST;
+                         ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\skill\skillable\impl\woodcutting\BirdNest.java:123: error: illegal start of expression
+                  case 2 -> Nest.GREEN_BIRD_NEST;
+                         ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\content\skill\skillable\impl\woodcutting\BirdNest.java:124: error: illegal start of expression
+                  default -> Nest.BLUE_BIRD_NEST;
+                          ^
+  D:\Documents\GitHub\elvarg-rsps\ElvargServer\game\src\main\java\com\elvarg\game\model\movement\MovementQueue.java:79: error: illegal start of expression
+                  default -> {
+                          ^
+  79 errors
+
+* Try:
+> Check your code and dependencies to fix the compilation error(s)
+> Run with --scan to get full insights.
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/8.11.1/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD FAILED in 16s
+3 actionable tasks: 3 executed
